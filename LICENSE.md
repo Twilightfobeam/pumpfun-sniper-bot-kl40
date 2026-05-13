@@ -1,4 +1,4 @@
-# 
+# updated pump.fun sniper bot | auto-sell + priority-gas-auctions offers the most advanced pump.fun sniper bot, with auto-sell and priority-gas-auctions. Ideal for professional MEV
 
 
 
